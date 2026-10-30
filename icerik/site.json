@@ -1,0 +1,122 @@
+{
+  "ad": "Tahir Can Kozan",
+  "unvan": "GNC / Uçuş Kontrol Mühendisi",
+  "slogan": "İHA'lar için güdüm, navigasyon ve kontrol yazılımları geliştiriyorum — simülasyondan gömülü donanıma, uçuş verisinden aerodinamik modele.",
+  "durum": "Mekatronik Mühendisliği Yüksek Lisans · BTÜ",
+  "konum": "Bursa, Türkiye",
+  "linkedin": "https://www.linkedin.com/in/tahir-can-kozan-1b92bb21b",
+  "github": "https://github.com/tahircankzn",
+  "logo": "logo.png",
+  "favicon": "favicon.png",
+  "site_url": "https://tahircankzn.github.io/",
+
+  "durum_pilleri": [
+    { "k": "Durum", "v": "Hazır", "durum": "iyi" },
+    { "k": "Mod", "v": "GNC", "vurgu": true },
+    { "k": "Konum", "v": "Bursa" },
+    { "k": "Lisans", "v": "İHA-1" }
+  ],
+  "etiket_satiri": ["Savaşan İHA", "ArduPilot", "Raspberry Pi 5", "MATLAB"],
+
+  "rakamlar": [
+    { "deger": "3,67 / 4", "etiket": "AGNO · Bölüm birincisi" },
+    { "deger": "En İyi Tasarım", "etiket": "TEKNOFEST Savaşan İHA 2025" },
+    { "deger": "7 kişi", "etiket": "Yönettiğim yazılım ekibi" },
+    { "deger": "İHA-1", "etiket": "Ticari pilot lisansı" }
+  ],
+
+  "hakkimda_baslik": "Uçuşun matematiğiyle uğraşmayı seviyorum",
+  "hakkimda": [
+    "Bursa Teknik Üniversitesi Mekatronik Mühendisliği'ni bölüm birincisi olarak tamamladım ve aynı bölümde yüksek lisansa devam ediyorum.",
+    "Solid AERO'da GNSS'siz ortamlarda navigasyon ile radar ve görüntü işleme tabanlı güdüm yazılımları üzerine çalıştım. TUSAŞ LIFT UP kapsamında uçuş verilerinden sistem tanımlama ve aerodinamik model doğrulama üzerine çalıştım.",
+    "TEKNOFEST Savaşan İHA takımında yazılım ekip lideri ve RC pilot olarak ArduPilot tabanlı görev yazılımı ve yer kontrol istasyonu geliştirdim. Hedefim GNC, uçuş kontrolü ve uçuş dinamiği alanında uzmanlaşmak."
+  ],
+
+  "egitim": [
+    {
+      "tarih": "2026 – Devam ediyor",
+      "bolum": "Mekatronik Mühendisliği, Yüksek Lisans",
+      "okul": "Bursa Teknik Üniversitesi",
+      "aciklama": "Planlanan tez: Sabit kanatlı bir İHA'nın sentetik uçuş test verileri kullanılarak sistem tanımlanması ve uçuş kontrol sisteminin geliştirilmesi"
+    },
+    {
+      "tarih": "2021 – 2026",
+      "bolum": "Mekatronik Mühendisliği, Lisans",
+      "okul": "Bursa Teknik Üniversitesi",
+      "not": "AGNO 3,67 / 4,00 — Bölüm Birincisi"
+    }
+  ],
+
+  "deneyim": [
+    {
+      "rol": "İHA Yazılım Geliştirme — Güdüm Yazılımları",
+      "kurum": "Solid AERO · Part-time ve uzun dönem stajyer",
+      "tarih": "2025 – 2026",
+      "maddeler": [
+        "Radar ve görüntü işleme tabanlı kamikaze ve önleme (interceptor) İHA'ları için güdüm yazılımları üzerine çalıştım; bu yazılımların Gazebo simülasyonunda test edilmesinde görev aldım.",
+        "GNSS-denied navigasyon için prototip navigasyon ve güdüm yazılım bileşenleri üzerinde çalıştım.",
+        "Görüntü işleme tabanlı konumlandırma sisteminin Raspberry Pi 5 üzerinde gömülü çalışacak şekilde optimize edilmesi üzerine çalıştım."
+      ]
+    },
+    {
+      "rol": "Yazılım Ekip Lideri ve RC Pilot",
+      "kurum": "TEKNOFEST Savaşan İHA Takımı",
+      "tarih": "2024 – 2026",
+      "maddeler": [
+        "7 kişilik yazılım ekibini yönettim; takım 2025'te En İyi Tasarım Ödülü'nü kazandı.",
+        "ArduPilot ve MAVLink tabanlı otonom görev yazılımları, hedef takibi ve GNC algoritmaları geliştirdim."
+      ]
+    },
+    {
+      "rol": "İsteğe Bağlı Stajyer",
+      "kurum": "PEKS Mühendislik",
+      "tarih": "2024",
+      "maddeler": [
+        "PLC programlama ve endüstriyel otomasyon sistemleri üzerine sahada uygulamalı çalıştım."
+      ]
+    }
+  ],
+
+  "yetenekler": [
+    { "grup": "GNC ve Uçuş Dinamiği", "ogeler": ["Güdüm", "GNSS-denied navigasyon", "Sistem tanımlama", "Parametre kestirimi (LS, WLS, OEM)", "Aerodinamik model doğrulama"] },
+    { "grup": "Uçuş Yazılımı", "ogeler": ["ArduPilot", "PX4 SITL", "MAVLink", "DroneKit"] },
+    { "grup": "Programlama", "ogeler": ["Python", "C", "MATLAB", "Simulink"] },
+    { "grup": "Simülasyon", "ogeler": ["Gazebo", "X-Plane 11", "FlightGear"] },
+    { "grup": "Bilgisayarlı Görü", "ogeler": ["OpenCV", "YOLO", "XFeat", "MediaPipe"] },
+    { "grup": "Gömülü Sistemler", "ogeler": ["Raspberry Pi 5", "Raspberry Pi AI HAT", "STM32 Nucleo"] },
+    { "grup": "Tasarım ve Dil", "ogeler": ["SolidWorks (CSWA)", "İngilizce (B1)"] }
+  ],
+
+  "yayinlar": [
+    {
+      "baslik": "İnsansız Hava Araçları İçin Uçuş Verilerinden Aerodinamik Veritabanı Düzeltmesi ve Model Doğrulaması",
+      "yer": "11. Ulusal Havacılık ve Uzay Konferansı (UHUK-2026)",
+      "yil": "2026",
+      "proje": "tusas-lift-up-sistem-tanimlama"
+    }
+  ],
+
+  "sertifikalar": [
+    { "ad": "TEKNOFEST Savaşan İHA — En İyi Tasarım Ödülü", "yil": "2025", "one_cikan": true },
+    { "ad": "TUSAŞ LIFT UP Teşekkür Belgesi", "yil": "2026" },
+    { "ad": "Dijital Deprem Çözümleri Hackathonu — 3.lük Ödülü (İHA-NET)", "yil": "2025" },
+    { "ad": "SOLIDWORKS Design Associate (CSWA)", "yil": "2026" },
+    { "ad": "İHA-1 Ticari Pilot Lisansı", "yil": "2025" },
+    { "ad": "TEİ Havacılık Motorları Okulu", "yil": "2025" },
+    { "ad": "TEKNOFEST Savaşan İHA Başarı Sertifikası", "yil": "2024, 2025" },
+    { "ad": "Savunma Sanayii — Savunma 101 Eğitim Programı", "yil": "2024" },
+    { "ad": "MathWorks Simulink Onramp", "yil": "2024" }
+  ],
+
+  "youtube": {
+    "url": "https://www.youtube.com/@Eaglehead-Labs",
+    "ad": "Eaglehead LABS",
+    "kanal_id": "UCLeiCTKQ8RlKcOu5vGHxE1w",
+    "aciklama": "FPV ve uçuş simülatörü videoları paylaşıyorum; uçuş dinamiği ve mühendislik içerikleri de yolda.",
+    "sabit_videolar": ["dM2T-FMDbfk"],
+    "adet": 4
+  },
+
+  "iletisim_baslik": "Birlikte çalışalım",
+  "iletisim_metni": "GNC, uçuş kontrolü ve İHA yazılımları üzerine iş, staj ve araştırma fırsatları için bana ulaşabilirsin."
+}

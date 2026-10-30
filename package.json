@@ -1,0 +1,13 @@
+{
+  "name": "tahir-can-kozan-portfolyo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Klasör tabanlı portfolyo sitesi — projeler/ altındaki her klasör otomatik olarak bir proje sayfasına dönüşür.",
+  "scripts": {
+    "build": "node sistem/build.js",
+    "dev": "node sistem/build.js --sun --ac"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
