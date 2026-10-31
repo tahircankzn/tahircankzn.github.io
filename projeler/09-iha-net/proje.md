@@ -37,3 +37,5 @@ Deprem gibi afetlerden sonra bölgedeki iletişim altyapısı çökebiliyor; vat
 Python Flask backend, MAVLink ile İHA kontrolü ve Scikit-learn modeli dahil tüm bileşenler yarışma süresince kodlandı.
 
 **Takım (LODOS):** Canan Bora, Alperen Burak Temiz, Ahmet Güldaş, Tahir Can Kozan, Durmuş Tayyip Üzer
+
+*Kapak fotoğrafı: Hackathon ödül töreni — Bursa Teknik Üniversitesi haber arşivi.*
