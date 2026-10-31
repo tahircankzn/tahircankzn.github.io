@@ -3,6 +3,7 @@ baslik: LiDAR Tabanlı Otonom Navigasyon ve EKF Sensör Füzyonu
 alt_baslik: 11 farklı robot modeliyle yol planlama, LiDAR simülasyonu ve Genişletilmiş Kalman Filtresi ile lokalizasyon.
 rol: Mobil Robotlar Dersi — Ödev 1
 tarih: 2026
+gizli: evet
 kategoriler: [Ders Projesi, Robotik, Sensör Füzyonu]
 teknolojiler: [Python, EKF, A*, RRT*, LiDAR]
 ozet: 25 m × 25 m'lik bir depo ortamında LiDAR + IMU + enkoder verilerini EKF ile birleştiren, 9 farklı yol planlayıcıyı 11 robot modelinde karşılaştıran navigasyon simülatörü.
