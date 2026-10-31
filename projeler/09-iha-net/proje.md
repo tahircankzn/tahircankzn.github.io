@@ -1,13 +1,20 @@
 ---
-baslik: İHA-NET — Afet Bölgesi için İHA Tabanlı İletişim Ağı
+baslik: "İHA-NET: Hayat Kurtaran Ağ"
 alt_baslik: Afet sonrası iletişimin koptuğu bölgelerde İHA'larla WiFi hotspot ağı kuran ve vatandaş bildirimlerini önceliklendiren sistem.
-rol: Lodos Takımı · Hackathon projesi
-tarih: 2025
+rol: LODOS Takımı · Hackathon projesi
+tarih: Mayıs 2025
 kategoriler: [Yarışma, Yapay Zekâ]
 teknolojiler: [Python, Flask, MAVLink, Scikit-learn]
-ozet: BTÜ Endüstri ve Dijital Dönüşüm Topluluğu'nun Dijital Deprem Çözümleri Hackathonu'nda yarışma süresince geliştirdiğimiz, 3.lük ödülü alan sistem.
+ozet: 11 takım ve 40 öğrencinin katıldığı, 32 saat süren Dijital Deprem Çözümleri Hackathonu'nda geliştirdiğimiz ve 3.lük ödülü alan afet iletişim sistemi.
 rozet: Hackathon 3.lüğü · 2025
+
+baglantilar:
+  - BTÜ haberi: https://btu.edu.tr/tr/haber/detay/7352/dijital-deprem-%C3%A7%C3%B6z%C3%BCmleri-hackathonu-ger%C3%A7ekle%C5%9Ftirildi
 ---
+
+## Yarışma
+
+Bursa Teknik Üniversitesi Endüstri ve Dijital Dönüşüm Topluluğu'nun, Gençlik ve Spor Bakanlığı ÜNİDES desteğiyle Mimar Sinan Yerleşkesi'nde düzenlediği **Dijital Deprem Çözümleri Hackathonu**'nda **11 takımdan 40 üniversite öğrencisi**, **32 saat** boyunca deprem öncesi hazırlık, anlık müdahale ve sonrası iyileştirme süreçlerine yönelik çözümler geliştirdi. Takımımız LODOS, BTÜ Uzay Havacılık ve Savunma Sanayi Topluluğu bünyesinde yarıştı ve **üçüncülük ödülü** aldı.
 
 ## Problem
 
@@ -29,4 +36,4 @@ Deprem gibi afetlerden sonra bölgedeki iletişim altyapısı çökebiliyor; vat
 
 Python Flask backend, MAVLink ile İHA kontrolü ve Scikit-learn modeli dahil tüm bileşenler yarışma süresince kodlandı.
 
-**Takım (Lodos):** Alperen Burak Temiz, Durmuş Uzer, Canan Bora, Ahmet Güldaş, Tahir Can Kozan
+**Takım (LODOS):** Canan Bora, Alperen Burak Temiz, Ahmet Güldaş, Tahir Can Kozan, Durmuş Tayyip Üzer
