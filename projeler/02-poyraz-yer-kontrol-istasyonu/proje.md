@@ -9,6 +9,9 @@ ozet: POYRAZ takımının yarışma YKİ'si. Yarışma sunucusu entegrasyonu, HS
 rozet: Savaşan İHA 2025
 one_cikan: evet
 
+videolar:
+  - https://youtu.be/OpAmX1Zh6bY
+
 gorsel_aciklamalari:
   - 01-ana-ekran-bolumleri.jpg: POYRAZ ana ekranı — 1 harita ve HSS bölgeleri, 2 uçuş göstergeleri, 3 telemetri, 4 komut paneli, 5 mesaj / komut satırı
   - 02-eagleeye-kamera-hud.jpg: EagleEye kamera ekranı — pusula şeridi, hız/irtifa bantları, yatış göstergesi ve hedef kilit kutusu
@@ -51,7 +54,7 @@ Savaşan İHA yarışması; yarışma sunucusuna sürekli telemetri göndermeyi,
 
 ## Yeni nesil: EAGLEHEAD YKİ (2026)
 
-POYRAZ'da edindiğim deneyimle 2026'da YKİ'yi, yapay zekâ destekli geliştirme araçlarını (Claude Code) kullanarak **EAGLEHEAD** adıyla web tabanlı olarak baştan yazdım:
+POYRAZ'da edindiğim deneyimle 2026'da YKİ'yi, yapay zekâ destekli geliştirme araçlarını (Claude Code) kullanarak **EAGLEHEAD** adıyla web tabanlı olarak baştan yazdım. Aşağıdaki videoda EAGLEHEAD'in ArduPlane SITL ve X-Plane ile çalışırken görünümü var.
 
 - **Mimari:** pymavlink köprüsü + FastAPI / WebSocket (10 Hz) + çevrimdışı Leaflet arayüzü; Python 3.10+ ile çalışmayan DroneKit kaldırıldı.
 - **Ekranlar:** Uçuş (HUD, telemetri, modlar), Görev (sürükle-bırak waypoint, araçtan oku / araca yaz, HSS çakışma kontrolü ve kaçınma), Yarışma (rakip tablosu, takip, kamikaze dalış rotası), Analiz, Kurulum.

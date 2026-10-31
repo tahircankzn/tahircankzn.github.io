@@ -9,14 +9,19 @@ ozet: 7 kişilik yazılım ekibini yönettiğim TEKNOFEST takımında ArduPilot 
 rozet: En İyi Tasarım Ödülü · 2025
 one_cikan: evet
 
-videolar:
-  # - https://www.youtube.com/watch?v=...
+gorsel_aciklamalari:
+  - 01-en-iyi-tasarim-odulu.jpg: TEKNOFEST 2025 Savaşan İHA Yarışması — En İyi Tasarım Ödülü
+  - 02-takim-teknofest-2025.jpg: BTÜ-POYRAZ takımı, TEKNOFEST 2025
+  - 03-anka-pistte.jpg: ANKA İHA'mız pistte
+  - 04-ucus-testi-ucak.jpg: Uçuş testi öncesi hazırlık
+  - 05-ucus-testi-yer-istasyonu.jpg: Uçuş testinde yer kontrol istasyonu başında
+  - 06-btu-poyraz-standi.jpg: TEKNOFEST alanında BTÜ-POYRAZ standı
+  - 07-teknofest-2024.jpg: TEKNOFEST 2024 Savaşan İHA yarışma alanı
+  - 08-takim-2024.jpg: Takım, 2024
 
 baglantilar:
-  # - GitHub: https://github.com/tahircankzn/...
+  - Yer kontrol istasyonu: ../poyraz-yer-kontrol-istasyonu/
 ---
-
-<!-- Bu klasöre yarışma fotoğrafları (kapak.jpg, 01-..., 02-...), kilitlenme videoları ve takım raporu PDF'ini ekleyebilirsin. -->
 
 ## Problem
 

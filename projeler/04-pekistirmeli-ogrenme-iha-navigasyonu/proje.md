@@ -6,9 +6,10 @@ tarih: 2026
 kategoriler: [GNC, Ders Projesi, Yapay Zekâ]
 teknolojiler: [Python, Q-Learning, SARSA, Double DQN, ArduPilot, MAVLink]
 ozet: Sabit kanatlı bir İHA'nın otonom navigasyonu için iki katmanlı bir pekiştirmeli öğrenme mimarisi geliştirdim; üretilen rota ArduPilot'a görev olarak yüklendi, reaktif katman MAVLink üzerinden canlı roll komutları verdi.
----
 
-<!-- Bu klasöre simülasyon ekran görüntüleri veya bir video linki ekleyebilirsin. -->
+gorsel_aciklamalari:
+  - 01-egitim-ilk-asama.jpg: Double DQN eğitiminin ilk aşaması — ödül, kayıp, keşif oranı ve bölüm sonuçları
+---
 
 ## Yaklaşım
 
@@ -25,3 +26,15 @@ ozet: Sabit kanatlı bir İHA'nın otonom navigasyonu için iki katmanlı bir pe
 ## Eğitim stratejisi
 
 **Curriculum Learning** ile ajan önce hedefe ulaşmayı, ardından engellerden kaçınmayı öğrendi. MAVLink üzerinden ArduPilot ile canlı haberleşme kurularak reaktif uçuş kontrolü gerçekleştirildi.
+
+## Sonuçlar
+
+Kapak görselindeki son eğitim oturumunun (187 bölüm) sonunda, son 10 bölümlük pencerede:
+
+| Metrik | Değer |
+|---|---|
+| Başarı oranı (hedefe ulaşma) | %94,5 |
+| Çarpışma oranı | %2,8 |
+| Sınır dışına çıkma oranı | %1,5 |
+
+İlk aşamada (galerideki grafik) çarpışma oranı %57 seviyesindeydi; eğitim ilerledikçe ajan engellerden kaçınmayı öğrendi.

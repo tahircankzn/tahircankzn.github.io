@@ -89,8 +89,8 @@
 
   "yayinlar": [
     {
-      "baslik": "İnsansız Hava Araçları İçin Uçuş Verilerinden Aerodinamik Veritabanı Düzeltmesi ve Model Doğrulaması",
-      "yer": "11. Ulusal Havacılık ve Uzay Konferansı (UHUK-2026)",
+      "baslik": "Sabit Kanatlı Hava Araçları İçin Uçuş Verilerinden Aerodinamik Veritabanı Düzeltmesi ve Model Doğrulaması",
+      "yer": "11. Ulusal Havacılık ve Uzay Konferansı (UHUK-2026-076), Eskişehir",
       "yil": "2026",
       "proje": "tusas-lift-up-sistem-tanimlama"
     }
@@ -113,7 +113,7 @@
     "ad": "Eaglehead LABS",
     "kanal_id": "UCLeiCTKQ8RlKcOu5vGHxE1w",
     "aciklama": "FPV ve uçuş simülatörü videoları paylaşıyorum; uçuş dinamiği ve mühendislik içerikleri de yolda.",
-    "sabit_videolar": ["dM2T-FMDbfk"],
+    "sabit_videolar": ["OpAmX1Zh6bY", "dM2T-FMDbfk"],
     "adet": 4
   },
 
